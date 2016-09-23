@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Template
+Comment=
+Exec=/path/startup/script.sh
+Icon=/path/startup/play.ico
+Terminal=false
+Type=Application
+
